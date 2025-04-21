@@ -1,0 +1,6 @@
+id,names,scores
+1,"['Alice', 'Bob']","[85, 90]"
+2,"['Charlie', 'David', 'Eve']","[78, 88, 92]"
+3,['Frank'],[95]
+4,"['Grace', 'Hank', 'Ivy']","[70, 75, 80]"
+5,['Jack'],[60]
