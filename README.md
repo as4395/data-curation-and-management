@@ -7,4 +7,5 @@ This repository contains the assignments I completed for my Data Curation and Ma
 - 🐍 Foundational Python for data analysis –  Using core programming concepts to write clean, efficient code for real-world data tasks
 - 📊 Hands-on practice with NumPy and Pandas – Loading, inspecting, and manipulating structured data
 - 🧹 Data cleaning and transformation – Preparing datasets through filtering, handling missing values, and reformatting  
-- 📈 Midterm: EDA Process – Exploratory Data Analysis using visualizations with `matplotlib` and `seaborn`  
+- 📈 Midterm: EDA Process – Exploratory Data Analysis using visualizations with `matplotlib` and `seaborn`
+-  📦 Final Project – A complete data curation pipeline applying skills in data sourcing, wrangling, and presentation  
